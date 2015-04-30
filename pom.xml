@@ -3,7 +3,7 @@
 
 	<groupId>com.yeaya</groupId>
 	<artifactId>basex</artifactId>
-	<version>0.5.1-SNAPSHOT</version>
+	<version>0.5.2</version>
 	<packaging>jar</packaging>
 
 	<name>basex</name>
